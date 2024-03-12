@@ -1,4 +1,5 @@
 # Cotizacion de Peluqueria
+![imagen](https://github.com/JoaquinEscobarDev/Cotizador-Peluqueria/assets/152922219/a4b635ea-f30a-4821-8991-641207e2c422)
 
 Simulador realizado en 4to semestre de 2023 en Instituto Profecional CIISA(Tecnico en programacion y analista de sistemas) para "Framework y programación Web", La pagina Web Realiza una cotizacion para una peluqueria solicitando datos basicos del cliente y el tipo de servicio que necesita
 
