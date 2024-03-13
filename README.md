@@ -40,4 +40,6 @@ Simulador realizado en 4to semestre de 2023 en Instituto Profecional CIISA(Tecni
 # ✔️ Tecnología utilizada
 
 - [PHP](https://www.php.net/manual/es/index.php)
+- HTML
+- Css
 
